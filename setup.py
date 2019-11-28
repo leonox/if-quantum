@@ -10,7 +10,7 @@ setup(
     #url='http://pypi.python.org/pypi/TowelStuff/',
     #license='LICENSE.txt',
     description='Visualize Quantum Entanglement',
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
     #install_requires=[
     #    "Django >= 1.1.1",
     #    "caldav == 0.1.4",
