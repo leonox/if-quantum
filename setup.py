@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='if_quantum',
+    name='ifquantum',
     version='0.0.1',
     author='bosoko-leonox',
     #author_email='jrh@example.com',
